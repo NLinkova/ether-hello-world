@@ -33,6 +33,8 @@ And then you should be able to:
 - run `npx hardhat run scripts/interact.js` to read and write a new message to the smart contract on Ropsten
 - run `npx hardhat verify --network goerli <your deployment address> 'Hello World!'` to verify your contract on Etherscan
 
+## Deployed message
+
 <p align="center">
   <img src="./img/update.png" width="500">
 </p>
@@ -43,7 +45,7 @@ And then you should be able to:
   <img src="./img/scan.png" width="500">
 </p>
 
-Updated vis Ethereum scan
+## Updated via Ethereum Scan
 
 <p align="center">
   <img src="./img/updatedScan.png" width="500">
