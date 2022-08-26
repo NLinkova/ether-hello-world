@@ -1,13 +1,14 @@
 # hello-world
 
 This is my first projects on Ethereum.
-
+Thanks to:
 [YouTube Playlist](https://www.youtube.com/watch?v=g73EGNKatDw&list=PLMj8NvODurfGgDJG-qQWyKtqTxJyRGI0i)
 
 ## Tech
 
 - Ethereum smart contracts
 - hardhat
+- ethers
 - Alchemy Provider
 - Goerli - network
 
@@ -33,5 +34,17 @@ And then you should be able to:
 - run `npx hardhat verify --network goerli <your deployment address> 'Hello World!'` to verify your contract on Etherscan
 
 <p align="center">
-  <img src="./img/update.png" width="350">
+  <img src="./img/update.png" width="500">
+</p>
+
+## Ethereum scan verified
+
+<p align="center">
+  <img src="./img/scan.png" width="500">
+</p>
+
+Updated vis Ethereum scan
+
+<p align="center">
+  <img src="./img/updatedScan.png" width="500">
 </p>
